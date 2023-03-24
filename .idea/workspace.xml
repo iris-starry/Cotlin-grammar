@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="214b8c31-70ce-4fdb-bbd6-44a58a093674" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello.kt" afterDir="false" />
+    <list default="true" id="214b8c31-70ce-4fdb-bbd6-44a58a093674" name="Changes" comment="콘솔창을 이용한 출력과 입력">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/operatorstudy.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/variavleStudy.kt" afterDir="false" />
     </list>
@@ -56,6 +46,19 @@
       <option name="presentableId" value="Default" />
       <updated>1679663122446</updated>
     </task>
+    <task id="LOCAL-00001" summary="콘솔창을 이용한 출력과 입력">
+      <created>1679663942361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679663942361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="변수와 자료형" />
+    <MESSAGE value="콘솔창을 이용한 출력과 입력" />
+    <option name="LAST_COMMIT_MESSAGE" value="콘솔창을 이용한 출력과 입력" />
   </component>
 </project>
